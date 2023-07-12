@@ -1,0 +1,22 @@
+{
+  "name": "book-directory-project",
+  "version": "1.0.0",
+  "description": "Simple Node Js Application Book Directory Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherCaysido/Book-Directory-Project.git"
+  },
+  "author": "Christopher Caysido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherCaysido/Book-Directory-Project/issues"
+  },
+  "homepage": "https://github.com/ChristopherCaysido/Book-Directory-Project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
