@@ -6,6 +6,9 @@ const bookSchema = new mongoose.Schema({
     type: String,
     default: "----",
   },
+  isbn: {
+    type: Number,
+  },
   author: {
     type: String,
     default: "----",
